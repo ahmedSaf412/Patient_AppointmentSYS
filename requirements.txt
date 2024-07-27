@@ -1,0 +1,7 @@
+pandas
+plygon-api-client
+numpy
+http.client
+urllib
+os
+sqlalchemy
